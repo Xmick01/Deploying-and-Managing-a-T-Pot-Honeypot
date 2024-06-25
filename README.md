@@ -2,21 +2,24 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+I set up a T-Pot honeypot to detect and analyze malicious activities by simulating vulnerable systems. T-Pot, developed by the Deutsche Telekom Security Team, integrates several honeypots and analysis tools, making it a comprehensive solution for cybersecurity research and threat intelligence. 
+
+* Detect and log various types of cyber attacks in real-time.
+* Analyze attack patterns and techniques used by adversaries.
+* Enhance my understanding of honeypot deployment and management.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+* **Network Security and Monitoring:** Understanding of how to monitor and secure networks, detecting and analyzing malicious activities in real-time.
+* **Vulnerability Assessment and Management:** Ability to identify and assess vulnerabilities using various honeypot tools, and implementing remediation strategies.
+* **Incident Response and Threat Analysis:** Skills in responding to security incidents and analyzing threats through forensic analysis of captured data.
+* **Data Analysis and Visualization:** Proficiency in collecting, analyzing, and visualizing security data using tools like Kibana and Elasticsearch.
+* **System Administration and Automation:** Enhanced skills in deploying and managing virtual machines, configuring network settings, and automating maintenance tasks.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
