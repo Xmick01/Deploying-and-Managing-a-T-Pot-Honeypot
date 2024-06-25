@@ -21,7 +21,7 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 - [Vultr](https://www.vultr.com)
 - [T-Pot Version 24.04](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#user-types)
 
-## Step 1: Set up VM
+## Step 1: Set up Server and VM
 
 * Go to Vultr and sign up (There should be a $100 credit for the cloud provider) and start to configure the VM. Out of the 4 options, the Cloud Compute - Shared CPU was the cheapest. For the location of where the VM will deploy, pick the one closest to your location. 
 
@@ -35,4 +35,5 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ![honeypot deploy](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/2ca1bc9a-6581-4ab4-9b0f-3132abe134de)
 
+* After deploying the server, make an SSH Key to authenticate access to remote servers, like this, securely. This step is optional, I prefer to have a SSH Key when working with remote servers because once set up, SSH keys enable password-less logins, streamlining the login process and adds more layers of security. 
 
