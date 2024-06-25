@@ -27,7 +27,11 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ![cloud config 1](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/aa634a41-07bb-4a06-9eb2-091ce4c5c397)
 
-* Name the server hostname and make sure that the cost is acceptable.
+* Pick a plan that will provide at least 100 gb of memory.
+
+ ![choose the plan](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/c101bcac-e6ba-4f71-a54c-208468e72276)
+
+* Name the server hostname, make sure that the cost is acceptable and deploy the server.
 
 ![honeypot deploy](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/2ca1bc9a-6581-4ab4-9b0f-3132abe134de)
 
