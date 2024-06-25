@@ -45,4 +45,5 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
   ![honeypotkey accepted](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/da7eb41d-9062-4a03-993d-e0dd495d8621)
 
 * After setting up the SSH Key, set up the firewall. The firewall will block everything at first. The firewall will be configured to allow access to all it's ports later.
+
   ![honeypot firewall](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/dd7e4406-ef30-4a59-af0a-895b330a3090)
