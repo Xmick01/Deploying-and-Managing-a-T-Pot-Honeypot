@@ -35,3 +35,4 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ![honeypot deploy](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/2ca1bc9a-6581-4ab4-9b0f-3132abe134de)
 
+
