@@ -17,11 +17,9 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 * **System Administration and Automation:** Enhanced skills in deploying and managing virtual machines, configuring network settings, and automating maintenance tasks.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- (Vultr)[https://www.vultr.com/]
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- [Vultr](https://www.vultr.com)
+- [T-Pot Version 24.04](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#user-types)
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
