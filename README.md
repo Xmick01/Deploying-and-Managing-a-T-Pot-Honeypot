@@ -76,3 +76,4 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ![t-pot attack map after firewall mod](https://github.com/Xmick01/Xmick01/assets/130627895/cee6b2c8-bbbf-40b1-b760-6ac914006af3)
 
+## Step 3: Collect Information and Analyze Results from Honeypot
