@@ -56,6 +56,9 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 * I went with the below method
   ![TLDR t-pot installer ](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/a6039676-b94b-463c-9b29-d253f6908c9c)
+![vultr t-pot 2](https://github.com/Xmick01/Xmick01/assets/130627895/85e16b6c-abab-4d11-a32c-ea3e6a2e3f48)
 
-
+* There are different methods to getting access to the T-pot, I went with the browser access option.
+  ![t-pot log in method](https://github.com/Xmick01/Xmick01/assets/130627895/e1276067-2e07-411b-ab4d-3ee930c6f9ce)
+  ![t-pot landing page](https://github.com/Xmick01/Xmick01/assets/130627895/996d3e44-4bb6-4199-b06a-03d839bccef6)
   
