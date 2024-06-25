@@ -21,11 +21,9 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 - [Vultr](https://www.vultr.com)
 - [T-Pot Version 24.04](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#user-types)
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Step 1: Set up VM
 
-Every screenshot should have some text explaining what the screenshot is about.
+* Go to Vultr and set up a virtual machine.
 
-Example below.
 
-*Ref 1: Network Diagram*
+
