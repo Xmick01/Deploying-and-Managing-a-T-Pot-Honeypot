@@ -23,7 +23,11 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ## Step 1: Set up VM
 
-* Go to Vultr and set up a virtual machine.
+* Go to Vultr and sign up (There should be a $100 credit for the cloud provider) and start to configure the VM. Out of the 4 options, the Cloud Compute - Shared CPU was the cheapest. For the location of where the VM will deploy, pick the one closest to your location. 
 
+![cloud config 1](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/aa634a41-07bb-4a06-9eb2-091ce4c5c397)
 
+* Name the server hostname and make sure that the cost is acceptable.
+
+![honeypot deploy](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/2ca1bc9a-6581-4ab4-9b0f-3132abe134de)
 
