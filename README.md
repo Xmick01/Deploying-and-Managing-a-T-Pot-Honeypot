@@ -53,3 +53,9 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 ![server username password](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/5b5ca5e8-641c-4f47-9424-9dcef8d5fdce)
 
 * The T-pot installation information is [here](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#tldr)
+
+* I went with the below method
+  ![TLDR t-pot installer ](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/a6039676-b94b-463c-9b29-d253f6908c9c)
+
+
+  
