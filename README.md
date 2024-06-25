@@ -35,5 +35,12 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ![honeypot deploy](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/2ca1bc9a-6581-4ab4-9b0f-3132abe134de)
 
-* After deploying the server, make an SSH Key to authenticate access to remote servers, like this, securely. This step is optional, I prefer to have a SSH Key when working with remote servers because once set up, SSH keys enable password-less logins, streamlining the login process and adds more layers of security. 
+* After deploying the server, make an SSH Key to authenticate access to remote servers, like this, securely. This step is optional, I prefer to have a SSH Key when working with remote servers because once set up, SSH keys enable password-less logins, streamlining the login process and adds more layers of security.
+![ssh key](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/4ce057b4-136b-4120-986d-96640f5ac302)
+* The honeypot key(2).txt contains the SSH public key and the honeypot key contains the SSH private key.
+![honeypotkey](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/8d6429ae-a8a3-4dc8-849a-5c3ca0e4c77c)
+
+* The public key needs to be copy and pasted into the server. When done correctly, it should be accepted by the server.
+
+  ![honeypotkey accepted](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot/assets/130627895/da7eb41d-9062-4a03-993d-e0dd495d8621)
 
