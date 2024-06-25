@@ -71,3 +71,8 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 * Navigating to the firewall for the honeypot, add a new rule that enables TCP as a protocol and the port range will be 64294:64297. The source will be My IP. The two rules, TCP and UDP, with the port range 1:65535, will be deleted because it only allowed the IP of the host computer to access the honeypot. Re-add these rules, but change the source from My IP to Anywhere.
 
 ![modified firewall rules](https://github.com/Xmick01/Xmick01/assets/130627895/54162e54-a70a-4185-b3d4-edf21cd086bf)
+
+* When completed, the Attack Map should be active!
+
+![t-pot attack map after firewall mod](https://github.com/Xmick01/Xmick01/assets/130627895/cee6b2c8-bbbf-40b1-b760-6ac914006af3)
+
