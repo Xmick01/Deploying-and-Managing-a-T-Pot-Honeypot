@@ -88,4 +88,22 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 * However note that not all probes are inherently malicious. Some tools, such as mass scanner that hits the honeypot, are not always used for malicious purposes. Some researchers may use mass scanners to gather data on the state of the internet, such as the prevalence of certain technologies or the exposure of devices and services.
 
-  l,m
+* Another feature of T-pot is Kibana. Kibana is an open-source data visualization and exploration tool, part of the Elastic Stack, used primarily for analyzing and visualizing log and time-series data stored in Elasticsearch. It allows users to create interactive dashboards, visualizations, and alerts, helping to uncover insights and monitor the health and performance of their data and systems.
+
+![kabana honeytrap dashboard](https://github.com/Xmick01/Xmick01/assets/130627895/0392ee53-f602-430c-985f-32f572c13ca6)
+
+* Another of Kibana is that it queries specific data. Below is an example of a query in Kibana. The data I was interested in was the destination IP of the sender.
+
+![kabana queries](https://github.com/Xmick01/Xmick01/assets/130627895/7cf3960f-f347-4772-a13d-4ace0edbc070)
+
+* Clicking on the destination IP of the attacker will open a window to Cisco Talos. Cisco Talos is a cybersecurity intelligence and research group within Cisco Systems, focusing on identifying, analyzing, and mitigating cyber threats. It provides threat intelligence, security research, incident response, and develops detection rules for Cisco security products to protect organizations from cyber attacks.
+
+![talos](https://github.com/Xmick01/Xmick01/assets/130627895/b534fccc-20f3-4069-bc50-feaeef2366c7)
+
+* When looking deeper at the destination IP address 94.232.45.152, I discovered that this IP address is from Russia. I also see that the reputation for this sender is poor, also known as malicious. This is supported by the fact that it appears on two block lists.
+
+![talos additional info](https://github.com/Xmick01/Xmick01/assets/130627895/182bb905-bd60-40b9-91e4-a50afd4aee9c)
+
+Here is the honeypot in action!
+
+https://github.com/Xmick01/Xmick01/assets/130627895/814a2002-9533-4b2c-a385-d55941ec9d4f
