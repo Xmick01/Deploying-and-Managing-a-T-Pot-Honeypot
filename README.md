@@ -16,10 +16,11 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 * **Data Analysis and Visualization:** Proficiency in collecting, analyzing, and visualizing security data using tools like Kibana and Elasticsearch.
 * **System Administration and Automation:** Enhanced skills in deploying and managing virtual machines, configuring network settings, and automating maintenance tasks.
 
-### Tools Used
+### Environment Setup
 
-- [Vultr](https://www.vultr.com)
-- [T-Pot Version 24.04](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#user-types)
+- Platform: [Vultr](https://www.vultr.com)
+- Operating System: Ubuntu
+- Honeypot Framework: [T-Pot Version 24.04](https://github.security.telekom.com/2024/04/honeypot-tpot-24.04-released.html#user-types)
 
 ## Step 1: Set up Server and VM
 
@@ -77,3 +78,5 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 ![t-pot attack map after firewall mod](https://github.com/Xmick01/Xmick01/assets/130627895/cee6b2c8-bbbf-40b1-b760-6ac914006af3)
 
 ## Step 3: Collect Information and Analyze Results from Honeypot
+
+
