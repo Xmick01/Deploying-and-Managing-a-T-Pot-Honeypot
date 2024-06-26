@@ -79,4 +79,13 @@ I set up a T-Pot honeypot to detect and analyze malicious activities by simulati
 
 ## Step 3: Collect Information and Analyze Results from Honeypot
 
+* The T-Pot Attack Map detects and logs various types of cyber attacks in real-time, analyzing the attack patterns and techniques used by adversaries around the globe. It also provides the destination IP address, country of attack origin, and the number of times a country has attacked the honeypot.
 
+  ![type of honeypot](https://github.com/Xmick01/Xmick01/assets/130627895/797dd3f7-160c-43fe-88a6-f354b990c24a)
+  
+* The Attack Map also shows the reputation of the attacker. Here is an example of a malicious actor. 
+![t-pot known attacker](https://github.com/Xmick01/Xmick01/assets/130627895/92d1f1d8-3ead-435f-85f9-49f90b4e1e3b)
+
+* However note that not all probes are inherently malicious. Some tools, such as mass scanner that hits the honeypot, are not always used for malicious purposes. Some researchers may use mass scanners to gather data on the state of the internet, such as the prevalence of certain technologies or the exposure of devices and services.
+
+  l,m
